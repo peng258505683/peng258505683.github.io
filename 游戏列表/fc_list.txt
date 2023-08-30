@@ -1,0 +1,2151 @@
+#FC GAME
+
+[魂斗罗]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/hun_dou_luo.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/hun_dou_luo.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/hun_dou_luo.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/hun_dou_luo.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[魂斗罗2(超级魂斗罗)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/hun_dou_luo2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/hun_dou_luo2.nes"
+rom_size=786464
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/hun_dou_luo2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/hun_dou_luo2.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[魂斗罗力量]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/hun_dou_luo_li_liang.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/hun_dou_luo_li_liang.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/hun_dou_luo_li_liang.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/hun_dou_luo_li_liang.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[SD快打旋风]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/SD_kuai_da_xuan_feng.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/SD_kuai_da_xuan_feng.nes"
+rom_size=294928
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/SD_kuai_da_xuan_feng.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/SD_kuai_da_xuan_feng.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "Nestopia"
+
+[瓦里奥森林]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/wa_li_ao_sen_lin.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/wa_li_ao_sen_lin.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/wa_li_ao_sen_lin.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/wa_li_ao_sen_lin.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[三目童子]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/san_mu_tong_zi.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/san_mu_tong_zi.nes"
+rom_size=278544
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/san_mu_tong_zi.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/san_mu_tong_zi.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[上尉密令(美国队长)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/shang_wei_mi_ling.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/shang_wei_mi_ling.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/shang_wei_mi_ling.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/shang_wei_mi_ling.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[人间兵器]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_jian_bing_qi.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_jian_bing_qi.nes"
+rom_size=294944
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_jian_bing_qi.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_jian_bing_qi.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[大蜜蜂]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/da_mi_feng.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/da_mi_feng.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/da_mi_feng.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/da_mi_feng.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[赤影战士]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/chi_ying_zhan_shi.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/chi_ying_zhan_shi.nes"
+rom_size=270352
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/chi_ying_zhan_shi.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/chi_ying_zhan_shi.png"
+rom_language="简体中文（星空汉化v2.0）"
+introductions=""
+emu_core= "FCEUmm"
+
+[空中魂斗罗-无敌版]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/zui_zhong_ren_wu_wu_di_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/zui_zhong_ren_wu_wu_di_ban.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/zui_zhong_ren_wu_wu_di_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/zui_zhong_ren_wu_wu_di_ban.png"
+rom_language="简体中文(金明汉化2004)"
+introductions=""
+emu_core= "FCEUmm"
+
+[星际魂斗罗]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/xing_ji_hun_dou_luo.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/xing_ji_hun_dou_luo.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/xing_ji_hun_dou_luo.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/xing_ji_hun_dou_luo.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[蝙蝠侠 无限命]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bian_fu_xia_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bian_fu_xia_wu_xian_ming.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bian_fu_xia_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bian_fu_xia_wu_xian_ming.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[蝙蝠侠2 无敌版]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bian_fu_xia_2_wu_di_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bian_fu_xia_2_wu_di_ban.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bian_fu_xia_2_wu_di_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bian_fu_xia_2_wu_di_ban.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[双截龙1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/shuang_jie_long1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/shuang_jie_long1.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/shuang_jie_long1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/shuang_jie_long1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[双截龙2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/shuang_jie_long2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/shuang_jie_long2.nes"
+rom_size=327696
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/shuang_jie_long2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/shuang_jie_long2.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "Nestopia"
+
+[双截龙3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/shuang_jie_long3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/shuang_jie_long3.nes"
+rom_size=294928
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/shuang_jie_long3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/shuang_jie_long3.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "Nestopia"
+
+[口袋里的魔鬼]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/kou_dai_li_de_mo_gui.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/kou_dai_li_de_mo_gui.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/kou_dai_li_de_mo_gui.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/kou_dai_li_de_mo_gui.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[幽游白书-暗黑武斗会]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/you_you_bai_shu_an_hei_wu_dou_hui.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/you_you_bai_shu_an_hei_wu_dou_hui.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/you_you_bai_shu_an_hei_wu_dou_hui.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/you_you_bai_shu_an_hei_wu_dou_hui.png"
+rom_language="日语"
+introductions=""
+emu_core= "Nestopia"
+
+[幽游白书-97V]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/you_you_bai_shu_97V.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/you_you_bai_shu_97V.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/you_you_bai_shu_97V.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/you_you_bai_shu_97V.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[幽游白书-魔界最强列传]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/you_you_bai_shu_mo_jie_zui_qiang_lie_zhuan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/you_you_bai_shu_mo_jie_zui_qiang_lie_zhuan.nes"
+rom_size=655376
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/you_you_bai_shu_mo_jie_zui_qiang_lie_zhuan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/you_you_bai_shu_mo_jie_zui_qiang_lie_zhuan.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[踢王]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ti_wang.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ti_wang.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ti_wang.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ti_wang.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[俄罗斯方块]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_luo_si_fang_kuai.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_luo_si_fang_kuai.nes"
+rom_size=65680
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_luo_si_fang_kuai.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_luo_si_fang_kuai.png"
+rom_language="简体中文v1.1(九班汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[俄罗斯方块任天堂版]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_luo_si_fang_kuai_ren_tian_tang_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_luo_si_fang_kuai_ren_tian_tang_ban.nes"
+rom_size=49168
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_luo_si_fang_kuai_ren_tian_tang_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_luo_si_fang_kuai_ren_tian_tang_ban.png"
+rom_language="简体中文(夜幕丶星辰V)"
+introductions=""
+emu_core= "FCEUmm"
+
+[影子传说]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ying_zi_chuan_shuo.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ying_zi_chuan_shuo.nes"
+rom_size=106512
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ying_zi_chuan_shuo.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ying_zi_chuan_shuo.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者蛙]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_wa.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_wa.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_wa.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_wa.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者龙剑传1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_long_jian_zhuan1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_long_jian_zhuan1.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_long_jian_zhuan1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_long_jian_zhuan1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者龙剑传2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_long_jian_zhuan2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_long_jian_zhuan2.nes"
+rom_size=335888
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_long_jian_zhuan2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_long_jian_zhuan2.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者龙剑传3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_long_jian_zhuan3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_long_jian_zhuan3.nes"
+rom_size=348817
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_long_jian_zhuan3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_long_jian_zhuan3.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者龙牙]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_long_ya.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_long_ya.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_long_ya.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_long_ya.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者猫]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_mao.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_mao.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_mao.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_mao.png"
+rom_language="简体中文v1.11(汉化你妹汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者猫(无限血无限能量)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_mao_wu_xian_xue.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_mao_wu_xian_xue.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_mao_wu_xian_xue.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_mao_wu_xian_xue.png"
+rom_language="简体中文v1.11(汉化你妹汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[恶魔城1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_mo_cheng1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_mo_cheng1.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_mo_cheng1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_mo_cheng1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[恶魔城2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_mo_cheng2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_mo_cheng2.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_mo_cheng2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_mo_cheng2.png"
+rom_language="简体中文v1.1(未名汉化组汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[恶魔城3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_mo_cheng3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_mo_cheng3.nes"
+rom_size=917536
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_mo_cheng3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_mo_cheng3.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[恶魔城3(无敌版)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_mo_cheng3_wu_di_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_mo_cheng3_wu_di_ban.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_mo_cheng3_wu_di_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_mo_cheng3_wu_di_ban.png"
+rom_language="简体中文"
+introductions="血不减+无限命+无限心 hack by 小粽子"
+emu_core= "FCEUmm"
+
+[恶魔城我叫德拉古拉君]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_mo_cheng_wo_jiao_de_la_gu.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_mo_cheng_wo_jiao_de_la_gu.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_mo_cheng_wo_jiao_de_la_gu.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_mo_cheng_wo_jiao_de_la_gu.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[激龟忍者传]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ji_gui_ren_zhe_zhuan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ji_gui_ren_zhe_zhuan.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ji_gui_ren_zhe_zhuan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ji_gui_ren_zhe_zhuan.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[激龟忍者传(无限血)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ji_gui_ren_zhe_zhuan_wu_xian_xue.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ji_gui_ren_zhe_zhuan_wu_xian_xue.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ji_gui_ren_zhe_zhuan_wu_xian_xue.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ji_gui_ren_zhe_zhuan_wu_xian_xue.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者神龟2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_gui_2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_gui_2.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_gui_2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_gui_2.png"
+rom_language="繁体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者神龟2(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_gui_2_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_gui_2_wu_xian_ming.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_gui_2_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_gui_2_wu_xian_ming.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者神龟3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_gui_3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_gui_3.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_gui_3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_gui_3.png"
+rom_language="简体中文(勒大治汉化 MS修正)"
+introductions=""
+emu_core= "FCEUmm"
+
+[忍者神龟3(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_gui_3_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_gui_3_wu_xian_ming.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_gui_3_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_gui_3_wu_xian_ming.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[激龟格斗(忍者神龟4)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ren_zhe_gui_4.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ren_zhe_gui_4.nes"
+rom_size=311312
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ren_zhe_gui_4.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ren_zhe_gui_4.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[三只小猪]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/san_zhi_xiao_zhu.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/san_zhi_xiao_zhu.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/san_zhi_xiao_zhu.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/san_zhi_xiao_zhu.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[炸弹人1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/zha_dan_ren1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/zha_dan_ren1.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/zha_dan_ren1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/zha_dan_ren1.png"
+rom_language="简体中文(MS汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[炸弹人2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/zha_dan_ren2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/zha_dan_ren2.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/zha_dan_ren2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/zha_dan_ren2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[松鼠大作战1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/song_shu_da_zuo_zhan1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/song_shu_da_zuo_zhan1.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/song_shu_da_zuo_zhan1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/song_shu_da_zuo_zhan1.png"
+rom_language="简体中文v1.1（汉化你妹汉化组）"
+introductions=""
+emu_core= "FCEUmm"
+
+[松鼠大作战2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/song_shu_da_zuo_zhan2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/song_shu_da_zuo_zhan2.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/song_shu_da_zuo_zhan2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/song_shu_da_zuo_zhan2.png"
+rom_language="简体中文v1.1（汉化你妹汉化组）"
+introductions=""
+emu_core= "FCEUmm"
+
+[汤姆和杰瑞]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/tang_mu_he_ji_rui.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/tang_mu_he_ji_rui.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/tang_mu_he_ji_rui.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/tang_mu_he_ji_rui.png"
+rom_language="简体中文(MS汉化组)"
+introductions=""
+emu_core= "FCEUmm"
+
+[月之水晶]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/yue_zhi_shui_jing.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/yue_zhi_shui_jing.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/yue_zhi_shui_jing.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/yue_zhi_shui_jing.png"
+rom_language="简体中文(MM之神汉化)"
+introductions="不完全汉化版"
+emu_core= "FCEUmm"
+
+[暴走淘金者]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bao_zou_tao_jin_zhe.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bao_zou_tao_jin_zhe.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bao_zou_tao_jin_zhe.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bao_zou_tao_jin_zhe.png"
+rom_language="简体中文(九班汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[暴走淘金者2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bao_zou_tao_jin_zhe2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bao_zou_tao_jin_zhe2.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bao_zou_tao_jin_zhe2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bao_zou_tao_jin_zhe2.png"
+rom_language="简体中文(九班汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[火之鸟]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/huo_zhi_niao.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/huo_zhi_niao.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/huo_zhi_niao.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/huo_zhi_niao.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[火炮]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/huo_pao.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/huo_pao.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/huo_pao.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/huo_pao.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[炸弹之王]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/zha_dan_zhi_wang.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/zha_dan_zhi_wang.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/zha_dan_zhi_wang.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/zha_dan_zhi_wang.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[合金装备1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/he_jin_zhuang_bei1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/he_jin_zhuang_bei1.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/he_jin_zhuang_bei1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/he_jin_zhuang_bei1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[合金装备2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/he_jin_zhuang_bei2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/he_jin_zhuang_bei2.nes"
+rom_size=262287
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/he_jin_zhuang_bei2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/he_jin_zhuang_bei2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[特救指令]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/te_jiu_zhi_ling.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/te_jiu_zhi_ling.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/te_jiu_zhi_ling.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/te_jiu_zhi_ling.png"
+rom_language="简体中文(逆游の五彩魚汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[电梯大战]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/dian_ti_da_zhan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/dian_ti_da_zhan.nes"
+rom_size=40976
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/dian_ti_da_zhan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/dian_ti_da_zhan.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[眼镜蛇部队1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/yan_jing_she_bu_dui1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/yan_jing_she_bu_dui1.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/yan_jing_she_bu_dui1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/yan_jing_she_bu_dui1.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[眼镜蛇部队2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/yan_jing_she_bu_dui2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/yan_jing_she_bu_dui2.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/yan_jing_she_bu_dui2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/yan_jing_she_bu_dui2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[坦克大战]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/tan_ke_da_zhan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/tan_ke_da_zhan.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/tan_ke_da_zhan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/tan_ke_da_zhan.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[绿色兵团]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/lv_se_bing_tuan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/lv_se_bing_tuan.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/lv_se_bing.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/lv_se_bing.png"
+rom_language="简体中文(星空汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[绿色兵团(无敌版)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/lv_se_bing_tuan_wu_di_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/lv_se_bing_tuan_wu_di_ban.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/lv_se_bing_tuan_wu_di_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/lv_se_bing_tuan_wu_di_ban.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[能源战士1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/neng_yuan_zhan_shi1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/neng_yuan_zhan_shi1.nes"
+rom_size=270352
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/neng_yuan_zhan_shi1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/neng_yuan_zhan_shi1.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[能源战士2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/neng_yuan_zhan_shi2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/neng_yuan_zhan_shi2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/neng_yuan_zhan_shi2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/neng_yuan_zhan_shi2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[花式撞球(台球)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/hua_shi_zhuang_qiu.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/hua_shi_zhuang_qiu.nes"
+rom_size=188432
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/hua_shi_zhuang_qiu.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/hua_shi_zhuang_qiu.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[筋肉人-摔角大赛]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/jin_rou_ren_shuai_jiao_da_sai.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/jin_rou_ren_shuai_jiao_da_sai.nes"
+rom_size=24592
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/jin_rou_ren_shuai_jiao_da_sai.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/jin_rou_ren_shuai_jiao_da_sai.png"
+rom_language="简体中文(MS汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[街头战士2010]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/jie_tou_zhan_shi_2010.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/jie_tou_zhan_shi_2010.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/jie_tou_zhan_shi_2010.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/jie_tou_zhan_shi_2010.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren1.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren2.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren3.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren3.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人4]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren4.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren4.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren4.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren4.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人5]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren5.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren5.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren5.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren5.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[洛克人6]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/luo_ke_ren6.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/luo_ke_ren6.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/luo_ke_ren6.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/luo_ke_ren6.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[香蕉王子大冒险]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/xiang_jiao_wang_zi_da_mao_xian.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/xiang_jiao_wang_zi_da_mao_xian.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/xiang_jiao_wang_zi_da_mao_xian.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/xiang_jiao_wang_zi_da_mao_xian.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[柯纳米世界1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ke_na_mi_shi_jie1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ke_na_mi_shi_jie1.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ke_na_mi_shi_jie1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ke_na_mi_shi_jie1.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[柯纳米世界2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ke_na_mi_shi_jie2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ke_na_mi_shi_jie2.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ke_na_mi_shi_jie2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ke_na_mi_shi_jie2.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[阿尔戈斯战士]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/a_er_ge_si_zhan_shi.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/a_er_ge_si_zhan_shi.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/a_er_ge_si_zhan_shi.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/a_er_ge_si_zhan_shi.png"
+rom_language="简体中文(汉化你妹汉化组)"
+introductions=""
+emu_core= "FCEUmm"
+
+[希特勒复活]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/xi_te_le_fu_huo.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/xi_te_le_fu_huo.nes"
+rom_size=786464
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/xi_te_le_fu_huo.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/xi_te_le_fu_huo.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[鳄鱼先生]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/e_yu_xian_sheng.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/e_yu_xian_sheng.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/e_yu_xian_sheng.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/e_yu_xian_sheng.png"
+rom_language="简体中文(谈魈疯生-大字版)"
+introductions=""
+emu_core= "FCEUmm"
+
+[超级间谍猎人(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/chao_ji_jian_die_ren_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/chao_ji_jian_die_ren_wu_xian_ming.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/chao_ji_jian_die_ren_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/chao_ji_jian_die_ren_wu_xian_ming.png"
+rom_language="英语"
+introductions="赛车射击游戏"
+emu_core= "FCEUmm"
+
+[脱狱]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/tuo_yu.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/tuo_yu.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/tuo_yu.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/tuo_yu.png"
+rom_language="简体中文(星空汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[脱狱(无敌版)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/tuo_yu_wu_di_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/tuo_yu_wu_di_ban.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/tuo_yu_wu_di_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/tuo_yu_wu_di_ban.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[脱狱2-血火纵横]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/tuo_yu2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/tuo_yu2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/tuo_yu2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/tuo_yu2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[七宝奇谋1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/qi_bao_qi_mou1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/qi_bao_qi_mou1.nes"
+rom_size=49168
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/qi_bao_qi_mou1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/qi_bao_qi_mou1.png"
+rom_language="简体中文(王龙汉化小组汉化 MS修正)"
+introductions=""
+emu_core= "FCEUmm"
+
+[七宝奇谋2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/qi_bao_qi_mou2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/qi_bao_qi_mou2.nes"
+rom_size=655392
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/qi_bao_qi_mou2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/qi_bao_qi_mou2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[嘉蒂外传]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/jia_di_wai_zhuan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/jia_di_wai_zhuan.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/jia_di_wai_zhuan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/jia_di_wai_zhuan.png"
+rom_language="简体中文"
+introductions="飞行射击"
+emu_core= "FCEUmm"
+
+[圣铃传说]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/sheng_ling_chuan_shuo.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/sheng_ling_chuan_shuo.nes"
+rom_size=393232
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/sheng_ling_chuan_shuo.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/sheng_ling_chuan_shuo.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[怒3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/nu_3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/nu_3.nes"
+rom_size=786464
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/nu_3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/nu_3.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[西游记1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/xi_you_ji1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/xi_you_ji1.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/xi_you_ji1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/xi_you_ji1.png"
+rom_language="简体中文v1.04(汉化你妹汉化组)"
+introductions=""
+emu_core= "FCEUmm"
+
+[西游记2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/xi_you_ji2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/xi_you_ji2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/xi_you_ji2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/xi_you_ji2.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[冒险岛1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao1.nes"
+rom_size=106512
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao1.png"
+rom_language="繁体中文(Nokoh汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[冒险岛2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao2.nes"
+rom_size=278544
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao2.png"
+rom_language="繁体中文 v20101231(Nokoh汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[冒险岛2修改版]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao2_xiu_gai_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao2_xiu_gai_ban.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao2_xiu_gai_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao2_xiu_gai_ban.png"
+rom_language="繁体中文 (高艳龙汉化 MS修正)"
+introductions="按键换龙、切换状态"
+emu_core= "FCEUmm"
+
+[冒险岛3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao3.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao3.png"
+rom_language="繁体中文(高艳龙汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[冒险岛3修改版]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao3_xiu_gai_ban.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao3_xiu_gai_ban.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao3_xiu_gai_ban.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao3_xiu_gai_ban.png"
+rom_language="简体中文(烈火暴龙汉化)"
+introductions="选择键换龙 人、时间不减 龙不掉"
+emu_core= "FCEUmm"
+
+[冒险岛4]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/mao_xian_dao4.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/mao_xian_dao4.nes"
+rom_size=524304
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/mao_xian_dao4.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/mao_xian_dao4.png"
+rom_language="繁体中文 v20220222(Nokoh)"
+introductions=""
+emu_core= "FCEUmm"
+
+[超级马里奥1]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/chao_ji_ma_li_ao1.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/chao_ji_ma_li_ao1.nes"
+rom_size=65552
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/chao_ji_ma_li_ao1.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/chao_ji_ma_li_ao1.png"
+rom_language="繁体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[超级马里奥2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/chao_ji_ma_li_ao2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/chao_ji_ma_li_ao2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/chao_ji_ma_li_ao2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/chao_ji_ma_li_ao2.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[超级马里奥3]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/chao_ji_ma_li_ao3.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/chao_ji_ma_li_ao3.nes"
+rom_size=450576
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/chao_ji_ma_li_ao3.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/chao_ji_ma_li_ao3.png"
+rom_language="繁体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[马里奥水管]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ma_li_ao_shui_guan.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ma_li_ao_shui_guan.nes"
+rom_size=49168
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ma_li_ao_shui_guan.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ma_li_ao_shui_guan.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[马里奥医生]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/ma_li_ao_yi_sheng.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/ma_li_ao_yi_sheng.nes"
+rom_size=65552
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/ma_li_ao_yi_sheng.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/ma_li_ao_yi_sheng.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[成龙踢馆1(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/cheng_long_ti_guan1_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/cheng_long_ti_guan1_wu_xian_ming.nes"
+rom_size=40976
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/cheng_long_ti_guan1_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/cheng_long_ti_guan1_wu_xian_ming.png"
+rom_language="英语"
+introductions=""
+emu_core= "FCEUmm"
+
+[成龙踢馆2]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/cheng_long_ti_guan2.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/cheng_long_ti_guan2.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/cheng_long_ti_guan2.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/cheng_long_ti_guan2.png"
+rom_language="日语"
+introductions=""
+emu_core= "FCEUmm"
+
+[成龙踢馆2(无限血)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/cheng_long_ti_guan2_wu_xian_xue.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/cheng_long_ti_guan2_wu_xian_xue.nes"
+rom_size=786464
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/cheng_long_ti_guan2_wu_xian_xue.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/cheng_long_ti_guan2_wu_xian_xue.png"
+rom_language="日语"
+introductions=""
+emu_core= "Nestopia"
+
+[兵蜂1(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bing_feng_1_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bing_feng_1_wu_xian_ming.nes"
+rom_size=49168
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bing_feng_1_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bing_feng_1_wu_xian_ming.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[兵蜂2(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bing_feng_2_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bing_feng_2_wu_xian_ming.nes"
+rom_size=131088
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bing_feng_2_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bing_feng_2_wu_xian_ming.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[兵蜂3(无限命)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/bing_feng_3_wu_xian_ming.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/bing_feng_3_wu_xian_ming.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/bing_feng_3_wu_xian_ming.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/bing_feng_3_wu_xian_ming.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[红巾特攻队]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/hong_jin_te_gong_dui.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/hong_jin_te_gong_dui.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/hong_jin_te_gong_dui.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/hong_jin_te_gong_dui.png"
+rom_language="简体中文(佛易汉化组 8GUA汉化)"
+introductions=""
+emu_core= "FCEUmm"
+
+[弹珠台]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[高速公路赛车(高速之星)]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[功夫]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[霹雳神兵 无限人]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[古巴战士]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[火箭人]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[火箭车]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[荒野大镖客]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[花丸]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
+
+[]
+rom_url="https://gitee.com/pe123fdvg/fc_-rom/releases/download/FC_ROM/.nes"
+rom_url_2="http://psv.luransoft.com/resources/game_rom/fc/.nes"
+rom_size=262160
+preview_url="https://gitee.com/peng258505683/vita-toolbox2/raw/master/resources/preview_image/fc/.png"
+preview_url_2="http://psv.luransoft.com/resources/preview_image/fc/.png"
+rom_language="简体中文"
+introductions=""
+emu_core= "FCEUmm"
