@@ -137,9 +137,9 @@ SYSTEM_373_02_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_f
 SYSTEM_374_01_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/1109197/download/374.01"
 SYSTEM_374_02_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/1109196/download/374.02"
 
-#core 
-FCEUMM_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fceumm_eboot.self"
-NESTOPIA_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/nestopla_eboot.self"
+#core
+FCEUMM_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fceumm.self"
+NESTOPIA_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/nestopia.self"
 SNES9X2002_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/snes9x2002.self"
 SNES9X2005_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/snes9x2005.self"
 SNES9X2005P_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/snes9x2005_plus.self"
@@ -150,9 +150,8 @@ PCE_SUPERGRAFX_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/med
 NGP_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/mednafen_ngp.self"
 GAMEBATTE_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/gambatte.self"
 WS_WSWAN_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/mednafen_wswan.self"
-
-GPSP_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/gpsp_eboot.self"
-VBANEXT_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/vba_next_eboot.self"
+GPSP_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/gpsp.self"
+VBANEXT_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/vba_next.self"
 FBA_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fba_lite.self"
 
 PGM_BIOS_URL       ="http://psv.luransoft.com/internal/game_core/pgm.zip"
