@@ -1,4 +1,4 @@
-#Toolbox 2 download address(URL)  V1.09
+#Toolbox 2 download address(URL)  V1.11
 
 #TOOLBOX_2_UPDATE_TIP_CHINESE_S                     = "工具箱2 v%s 已经发布，\1 新增-设置-开机图片转换-直接替换enso_ex4.5.1开机图、还原enso_ex4.5.1开机图（一键完成）。\2 修复了v1.04版港版PSVita-简体中文查看设备信息报错的bug。\\你想更新此应用？" 
 
