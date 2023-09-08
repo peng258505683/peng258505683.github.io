@@ -1,4 +1,4 @@
-#Toolbox 2 download address(URL)  V1.11
+#Toolbox 2 download address(URL)  V1.09
 
 #TOOLBOX_2_UPDATE_TIP_CHINESE_S                     = "工具箱2 v%s 已经发布，\1 新增-设置-开机图片转换-直接替换enso_ex4.5.1开机图、还原enso_ex4.5.1开机图（一键完成）。\2 修复了v1.04版港版PSVita-简体中文查看设备信息报错的bug。\\你想更新此应用？" 
 
@@ -154,8 +154,8 @@ GPSP_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/gpsp.self"
 VBANEXT_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/vba_next.self"
 FBA_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fba_lite.self"
 
-PGM_BIOS_URL       ="http://psv.luransoft.com/internal/game_core/pgm.zip"
-NEOGEO_BIOS_URL       ="http://psv.luransoft.com/internal/game_core/neogeo.zip"
+PGM_BIOS_URL       ="http://fc.luransoft.com/ARCADE/pgm.zip"
+NEOGEO_BIOS_URL       ="http://fc.luransoft.com/ARCADE/neogeo.zip"
 EMU_DATA_URL       ="http://psv.luransoft.com/internal/game_core/game_data.zip"
 
 
