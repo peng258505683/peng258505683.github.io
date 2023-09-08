@@ -154,8 +154,8 @@ GPSP_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/gpsp.self"
 VBANEXT_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/vba_next.self"
 FBA_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fba_lite.self"
 
-PGM_BIOS_URL       ="http://fc.luransoft.com/ARCADE/pgm.zip"
-NEOGEO_BIOS_URL       ="http://fc.luransoft.com/ARCADE/neogeo.zip"
+PGM_BIOS_URL       ="http://fc.luransoft.com/ARCADE/pgm.html"
+NEOGEO_BIOS_URL       ="http://fc.luransoft.com/ARCADE/neogeo.html"
 EMU_DATA_URL       ="http://psv.luransoft.com/internal/game_core/game_data.zip"
 
 
