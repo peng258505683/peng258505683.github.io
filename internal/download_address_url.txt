@@ -1,4 +1,4 @@
-#Toolbox 2 download address(URL)  V1.09
+#Toolbox 2 download address(URL)  V1.11
 
 #TOOLBOX_2_UPDATE_TIP_CHINESE_S                     = "工具箱2 v%s 已经发布，\1 新增-设置-开机图片转换-直接替换enso_ex4.5.1开机图、还原enso_ex4.5.1开机图（一键完成）。\2 修复了v1.04版港版PSVita-简体中文查看设备信息报错的bug。\\你想更新此应用？" 
 
@@ -24,8 +24,8 @@ TOOLBOX2_VERSION_CHECK_URL       ="http://psv.luransoft.com/version.bin"
 TOOLBOX2_URL       ="http://psv.luransoft.com/internal/update_vpk/TOOLBOX2.vpk"
 
 //system app
-WELCOME_PRK_ZIP_01_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/912924/download/NPXS10007.zip.00" 
-WELCOME_PRK_ZIP_02_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/912925/download/NPXS10007.zip.01" 
+WELCOME_PRK_ZIP_01_URL       ="http://psv.luransoft.com/resources/system_app/NPXS10007.zip.00" 
+WELCOME_PRK_ZIP_02_URL       ="http://psv.luransoft.com/resources/system_app/NPXS10007.zip.01" 
 NEAR_ZIP_URL       ="http://psv.luransoft.com/resources/system_app/NPXS10000.zip"
 PARTY_ZIP_URL       ="http://psv.luransoft.com/resources/system_app/NPXS10001.zip"
 PS_STORE_ZIP_URL       ="http://psv.luransoft.com/resources/system_app/NPXS10002.zip"
@@ -97,10 +97,10 @@ FC_FCEUMM_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/F
 FC_NESTOPIA_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Nestopia.zip"
 SFC_SNES9X2002_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Snes9x2002.zip"
 SFC_SNES9X2005_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Snes9x2005.zip"
-SFC_SNES9X2005P_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Snes9x2005P.zip"
-MD_GENESIS_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/GenesisPlusGX.zip"
+SFC_SNES9X2005P_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Snes9x2005Plus.zip"
+MD_GENESIS_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Genesis-Plus-GX.zip"
 MD_PICODRIVE_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/PicoDrive.zip"
-PCE_FAST_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Mednafen-Pce.zip"
+PCE_FAST_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Mednafen-PCE-Fast.zip"
 PCE_SUPERGRAFX_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Mednafen-Pce-SuperGrafx.zip"
 NGP_WSWAN_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Mednafen-Ngp.zip"
 GB_GAMBATTE_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/emulator/Gambatte.zip"
@@ -123,19 +123,26 @@ NOBORU_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/Noboru/Noboru
 TOOLBOX_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/TOOLBOX/TOOLBOX.zip"
 AUTOPLUGIN2_VPK_URL       ="http://psv.luransoft.com/resources/vita_vpk/AutoPlugin2/AutoPlugin2.zip"
 
-
 #Vita system
-SYSTEM_SWU       ="http://hen.13375384.xyz/bin/SWU.00"
-SYSTEM_360_01_URL       ="http://hen.13375384.xyz/bin/360.01"
-SYSTEM_360_02_URL       ="http://hen.13375384.xyz/bin/360.02"
-SYSTEM_365_01_URL       ="http://hen.13375384.xyz/bin/365.01"
-SYSTEM_365_02_URL       ="http://hen.13375384.xyz/bin/365.02"
-SYSTEM_368_01_URL       ="http://hen.13375384.xyz/bin/368.01"
-SYSTEM_368_02_URL       ="http://hen.13375384.xyz/bin/368.02"
-SYSTEM_373_01_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/834813/download/373.01"
-SYSTEM_373_02_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/834819/download/373.02"
-SYSTEM_374_01_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/1109197/download/374.01"
-SYSTEM_374_02_URL       ="https://gitee.com/peng258505683/vita-toolbox2/attach_files/1109196/download/374.02"
+#SYSTEM_SWU       ="http://hen.13375384.xyz/bin/SWU.00"
+#SYSTEM_360_01_URL       ="http://hen.13375384.xyz/bin/360.01"
+#SYSTEM_360_02_URL       ="http://hen.13375384.xyz/bin/360.02"
+#SYSTEM_365_01_URL       ="http://hen.13375384.xyz/bin/365.01"
+#SYSTEM_365_02_URL       ="http://hen.13375384.xyz/bin/365.02"
+#SYSTEM_368_01_URL       ="http://hen.13375384.xyz/bin/368.01"
+#SYSTEM_368_02_URL       ="http://hen.13375384.xyz/bin/368.02"
+
+SYSTEM_SWU       ="http://psv.luransoft.com/resources/vita_system/SWU.00"
+SYSTEM_360_01_URL       ="http://psv.luransoft.com/resources/vita_system/360.01"
+SYSTEM_360_02_URL       ="http://psv.luransoft.com/resources/vita_system/360.02"
+SYSTEM_365_01_URL       ="http://psv.luransoft.com/resources/vita_system/365.01"
+SYSTEM_365_02_URL       ="http://psv.luransoft.com/resources/vita_system/365.02"
+SYSTEM_368_01_URL       ="http://psv.luransoft.com/resources/vita_system/368.01"
+SYSTEM_368_02_URL       ="http://psv.luransoft.com/resources/vita_system/368.02"
+SYSTEM_373_01_URL       ="http://psv.luransoft.com/resources/vita_system/373.01"
+SYSTEM_373_02_URL       ="http://psv.luransoft.com/resources/vita_system/373.02"
+SYSTEM_374_01_URL       ="http://psv.luransoft.com/resources/vita_system/374.01"
+SYSTEM_374_02_URL       ="http://psv.luransoft.com/resources/vita_system/374.02"
 
 #core
 FCEUMM_EBOOT_URL       ="http://psv.luransoft.com/internal/game_core/fceumm.self"
@@ -158,21 +165,20 @@ PGM_BIOS_URL       ="http://fc.luransoft.com/ARCADE/pgm.html"
 NEOGEO_BIOS_URL       ="http://fc.luransoft.com/ARCADE/neogeo.html"
 EMU_DATA_URL       ="http://psv.luransoft.com/internal/game_core/game_data.zip"
 
+FF3_GAME_VPK_URL      ="http://47.109.110.229:3000/resources/Migrate_games/ff3/FF3.zip"
+FF3_GAME_01_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff3/main.obb.01"
+FF3_GAME_02_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff3/main.obb.02"
+FF3_GAME_03_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff3/main.obb.03"
+FF3_GAME_04_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff3/opening.mp4"
 
-FF3_GAME_VPK_URL       ="https://gitee.com/peng258505683/android-vita-game/attach_files/826075/download/FF3.zip"
-FF3_GAME_01_URL       ="https://gitee.com/peng258505683/android-vita-game/attach_files/824869/download/main.obb.01"
-FF3_GAME_02_URL       ="https://gitee.com/peng258505683/android-vita-game/attach_files/824870/download/main.obb.02"
-FF3_GAME_03_URL       ="https://gitee.com/peng258505683/android-vita-game/attach_files/824871/download/main.obb.03"
-FF3_GAME_04_URL       ="https://gitee.com/peng258505683/android-vita-game/attach_files/826074/download/opening.mp4"
+FF4_GAME_VPK_URL      ="http://47.109.110.229:3000/resources/Migrate_games/ff4/FF4.zip"
+FF4_GAME_01_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/main.obb.01"
+FF4_GAME_02_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/main.obb.02"
+FF4_GAME_03_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/main.obb.03"
+FF4_GAME_04_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/main.obb.04"
+FF4_GAME_05_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/main.obb.05"
+FF4_GAME_06_URL       ="http://47.109.110.229:3000/resources/Migrate_games/ff4/opening.mp4"
 
-FF4_GAME_VPK_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826104/download/FF4.zip"
-FF4_GAME_01_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826106/download/main.obb.01"
-FF4_GAME_02_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826107/download/main.obb.02"
-FF4_GAME_03_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826108/download/main.obb.03"
-FF4_GAME_04_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826110/download/main.obb.04"
-FF4_GAME_05_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826111/download/main.obb.05"
-FF4_GAME_06_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/826105/download/opening.mp4"
-
-THEXTECH_GAME_URL       ="https://gitee.com/peng258505683/android-vita-game-ff4/attach_files/845268/download/TheXTech.zip"
+THEXTECH_GAME_URL       ="http://47.109.110.229:3000/resources/Migrate_games/TheXTech/TheXTech.zip"
 
 
